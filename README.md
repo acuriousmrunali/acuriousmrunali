@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @acuriousmrunali
 - 👀 I’m interested in Full-Stack Web Developer who is quite passionate about web development.I enjoy solving complex problem in unique ways.Unique-Ideas and being able to translate them into real-life projects is one of the top skill in me.
-- 🌱 I’m currently learning ReactJS.Socket.io
+- 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on JSSCONNECT
 - 📫 How to reach me acuriousmrunali
 
